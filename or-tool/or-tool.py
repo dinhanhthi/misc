@@ -1,3 +1,6 @@
+# source
+# https://developers.google.com/optimization/scheduling/employee_scheduling
+
 from ortools.sat.python import cp_model
 
 def main():
